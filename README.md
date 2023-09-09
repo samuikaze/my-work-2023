@@ -13,5 +13,6 @@
 - [LSGames (後端 / PHP 8.2)](https://github.com/samuikaze/my-work-2023-lsgame-backend)
 - [LSGames 最新消息 (後端 / .Net Core 7)](https://github.com/samuikaze/my-work-2023-lsgame-news)
 - [LSGames 討論板 (後端 / PHP 8.2)](https://github.com/samuikaze/my-work-2023-lsgames-forum)
+- [LSGames 商店 (後端 / .Net Core 7)](https://github.com/samuikaze/my-work-2023-lsgames-shop)
 - [單一登入入口 (後端 / PHP 8.2)](https://github.com/samuikaze/my-work-2023-sso)
 - [檔案儲存服務 (後端 / PHP 8.2)](https://github.com/samuikaze/my-work-2023-file-storage-service)
