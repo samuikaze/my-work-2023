@@ -11,7 +11,8 @@
 - [LSGames (前端 / Angular 15)](https://github.com/samuikaze/my-work-2023-lsgame)
 - [LSGames 後臺管理介面 (前端 / Angular 15)](https://github.com/samuikaze/my-work-2023-lsgame-admin)
 - [LSGames (後端 / PHP 8.2)](https://github.com/samuikaze/my-work-2023-lsgame-backend)
-- [LSGames 最新消息 (後端 / .Net Core 7)](https://github.com/samuikaze/my-work-2023-lsgame-news)
+- [LSGames 常用功能 (後端 / .Net Core 7)](https://github.com/samuikaze/my-work-2023-lsgames-common)
+- ~~[LSGames 最新消息 (後端 / .Net Core 7)](https://github.com/samuikaze/my-work-2023-lsgame-news)~~
 - [LSGames 討論板 (後端 / PHP 8.2)](https://github.com/samuikaze/my-work-2023-lsgames-forum)
 - [LSGames 商店 (後端 / .Net Core 7)](https://github.com/samuikaze/my-work-2023-lsgames-shop)
 - [單一登入入口 (後端 / PHP 8.2)](https://github.com/samuikaze/my-work-2023-sso)
